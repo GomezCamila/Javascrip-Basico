@@ -1,0 +1,115 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+
+
+#wrapper{
+    margin:60px;
+    width: 970px;
+    background-color:#1b335d;
+    margin-bottom: auto;
+    padding-top:10px;
+    padding-bottom: 10px;
+    vertical-align:top;
+    
+
+}
+
+#header{
+    min-height: 80px;
+    background-color: #cf3036;
+    margin-bottom: 20px;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 16px;
+    
+
+}
+
+#menu{
+    min-height: 220px;
+    width: 200px;
+    background-color: #297d8c;
+    margin-left: 10px;
+    margin-right: 25px;
+    display:inline-block;
+    vertical-align: top;
+    border-radius: 16px;
+
+}
+
+#main_content{
+    min-height: 400px;
+    width: 720px;
+    background-color: #0e1822;
+    margin-left:2 px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 16px;
+}
+
+#piso{
+    min-height:50px ;
+    background-color:#5d6673 ;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 16px;
+    
+}
+
+.x{
+    text-decoration-line: none;
+    style-color: #39448b;
+    
+}
+
+#sangria{
+
+    text-indent: 10px;
+}
+
+#titulo{
+    text-indent:30px;
+    padding-top: 20px; 
+}
+
+#lista{
+    margin-left: 20px;
+
+}
+
+#titulo2{
+    margin-left: 20px ;
+}
+
+#parrafo{
+    margin-left: 20px;
+
+}
+
+#lista2{
+    list-style-type:circle;
+    margin-left: 40px;
+
+}
+#lista1{
+    margin-left: 30px;
+}
+
+#casa{
+    margin-left: 10px;
+}
+
+#lista3{
+    margin-left: 30px;
+}
+
+#info{
+    padding-top: 10px;
+    margin-left:10px;
+
+}
